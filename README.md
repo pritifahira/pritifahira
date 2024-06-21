@@ -5,7 +5,7 @@ Currently undergraduated as Information System Degree in [Politeknik STMI Jakart
  - 📫 Reach me **pritifahira.1412@gmail.com**
 <h3 align="left">Connect with me ⬇️</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priti-fahira-yunita-9551a31a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agengsusila" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pritifahirayunita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agengsusila" height="30" width="40" /></a>
 </p>
 <br>
 <p align="left">
