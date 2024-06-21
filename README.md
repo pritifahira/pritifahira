@@ -1,9 +1,12 @@
-# Halo semua! 
+# 👋 Hi there! I'm Priti Fahira Yunita
 
-Perkenalkan nama saya **Priti Fahira Yunita**.<br>
-Saya seorang **Mahasiswa** jurusan **_System Information_** di [Politeknik STMI Jakarta](https://www.stmi.ac.id/).<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/priti-fahira-yunita-9551a31a1/)ku ya.
+Currently undergraduated as Information System Degree in [Politeknik STMI Jakarta](https://www.stmi.ac.id/).<br>
+ - 👩‍💻 I’m currently learning **Full-Stack Developer** and intern at automotive company.
+ - 📫 Reach me **pritifh@gmail.com**
+<h3 align="left">Connect with me ⬇️</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pritifahirayunita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agengsusila" height="30" width="40" /></a>
+</p>
 
 <p align="left">
 <a href="https://github.com/pritifahira">
