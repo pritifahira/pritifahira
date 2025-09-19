@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Priti Fahira Yunita
 
-Currently undergraduated as Information System Degree in [Politeknik STMI Jakarta](https://www.stmi.ac.id/).<br>
+Currently graduated as Information System Degree in [Politeknik STMI Jakarta](https://www.stmi.ac.id/).<br>
  - 👩‍💻 I’m currently learning **Full-Stack Developer** and intern at automotive company.
  - 📫 Reach me **pritifahira.1412@gmail.com**
 <h3 align="left">Connect with me ⬇️</h3>
